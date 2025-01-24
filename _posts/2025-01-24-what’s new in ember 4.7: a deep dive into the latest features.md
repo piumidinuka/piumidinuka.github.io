@@ -52,6 +52,11 @@ Start by upgrading your project’s dependencies, including Ember CLI, Ember Dat
 ## 3.2. Refactor Deprecated APIs
 If you’re using deprecated APIs like Ember.computed or legacy Ember Data features, begin the process of refactoring your code. Ember’s official deprecation guides are a great resource for understanding the changes and ensuring your code remains future-proof.
 
+### Deprecations
+***Ember CLI 4.7 introduced 0 deprecations***
+
+For more details on the changes in Ember CLI 4.7 and detailed upgrade instructions, please review the [Ember CLI 4.7.0 release page](https://github.com/ember-cli/ember-cli/releases/tag/v4.7.0)
+
 ## 3.3. Test Thoroughly
 Ember’s new features and breaking changes can sometimes introduce subtle issues. It’s crucial to run your tests regularly during the upgrade process. Using tools like ember-cli-mocha or ember-qunit for testing will help catch any issues early.
 
