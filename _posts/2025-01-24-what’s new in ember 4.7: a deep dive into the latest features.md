@@ -4,7 +4,7 @@ Ember 4.7 builds upon the solid foundation established by previous versions, add
 
 Let’s look at what’s new in Ember 4.7 and how these updates can benefit you as a developer.
 
-#1. New Features and Enhancements in Ember 4.7
+#New Features and Enhancements in Ember 4.7
 Ember 4.7 introduces several new features and improvements aimed at making the framework even more robust and developer-friendly. Here are the key highlights:
 
 ##1.1. Enhanced Template Glimmer Support
