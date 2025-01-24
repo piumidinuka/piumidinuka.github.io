@@ -61,4 +61,6 @@ Make sure that the add-ons you use in your Ember app are compatible with Ember 4
 # 4. Conclusion
 Ember 4.7 brings exciting new features, performance improvements, and a cleaner development experience for building modern web applications. While there are some breaking changes and deprecations to be aware of, the benefits of upgrading are clear: enhanced performance, improved TypeScript support, and a more streamlined development process.
 
-As always, make sure to test thoroughly when upgrading to Ember 4.7, and take advantage of the powerful new features to build more efficient and scalable apps. Happy coding!
+As always, make sure to test thoroughly when upgrading to Ember 4.7, and take advantage of the powerful new features to build more efficient and scalable apps. 
+
+**Happy coding!**
