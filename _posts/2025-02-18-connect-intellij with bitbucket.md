@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/125e84cc-1498-4b7e-b3a4-1ad3f27fa671)# How to Set Up a Bitbucket App Password in IntelliJ IDEA for Seamless Git Integration
+# How to Set Up a Bitbucket App Password in IntelliJ IDEA for Seamless Git Integration
 
 ## Step 1: Generate an App Password in Bitbucket
 ### Log in to Bitbucket:
