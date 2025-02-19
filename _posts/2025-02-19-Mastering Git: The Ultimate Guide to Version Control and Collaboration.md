@@ -7,11 +7,11 @@ Here's an overview of the key areas to focus on:
 
 + **git init:** Initializes a new Git repository.
 
-+ **git clone <repository-url>:** Clones an existing Git repository to your local machine.
++ **git clone (repository-url):** Clones an existing Git repository to your local machine.
 
 + **git status:** Displays the current state of the repository, including untracked files, staged changes, and branch information.
 
-+ **git add <file>:** Stages files for commit.
++ **git add (file):** Stages files for commit.
 
 + **git commit -m "message":** Commits staged changes with a descriptive message.
 
@@ -29,22 +29,22 @@ Here's an overview of the key areas to focus on:
 
 + **git branch:** Lists all branches in the repository or creates a new branch.
 
-+ **git checkout <branch>:** Switches to the specified branch.
++ **git checkout (branch):** Switches to the specified branch.
 
-+ **git merge <branch>:** Merges the changes from another branch into the current branch.
++ **git merge (branch):** Merges the changes from another branch into the current branch.
 
-+ **git rebase <branch>:** Reapplies commits from one branch on top of another (useful for linearizing commit history).
++ **git rebase (branch):** Reapplies commits from one branch on top of another (useful for linearizing commit history).
 
-+ **git branch -d <branch>:** Deletes a branch (only works if the branch is fully merged).
++ **git branch -d (branch):** Deletes a branch (only works if the branch is fully merged).
 
 # 3. Remote Repositories
-+ **git remote add <name> <url>:** Adds a remote repository with a name.
++ **git remote add (name) (url):** Adds a remote repository with a name.
   
 + **git remote -v:** Displays the URL of the remotes associated with your repository.
   
-+ **git push origin <branch>:** Pushes changes to a specific branch on the remote repository.
++ **git push origin (branch):** Pushes changes to a specific branch on the remote repository.
   
-+ **git pull origin <branch>:** Pulls changes from a specific branch on the remote repository.
++ **git pull origin (branch):** Pulls changes from a specific branch on the remote repository.
   
 + **git fetch origin:** Retrieves updates from the remote repository but does not merge.
 
@@ -52,13 +52,13 @@ Here's an overview of the key areas to focus on:
 
 + **git reset:** Undo commits (can be used to move HEAD and optionally affect the index and working directory).
 
-+ **git reset --soft <commit>**: Resets the HEAD to the specified commit but keeps changes staged.
++ **git reset --soft (commit)**: Resets the HEAD to the specified commit but keeps changes staged.
 
-+ **git reset --hard <commit>:** Resets the HEAD and clears changes in the working directory.
++ **git reset --hard (commit):** Resets the HEAD and clears changes in the working directory.
   
-+ **git checkout -- <file>:** Discards changes in the working directory for a specific file.
++ **git checkout -- (file):** Discards changes in the working directory for a specific file.
   
-+ **git revert <commit>:** Creates a new commit that undoes the changes of a previous commit.
++ **git revert (commit):** Creates a new commit that undoes the changes of a previous commit.
   
 + **git clean -fd:** Removes untracked files from the working directory.
 
