@@ -44,6 +44,23 @@ when you are doing changes to existing files each time you have to restart the s
 once installed, you just need to start the sever by 
 **npm start**, it will allows real time updates.
 
-you can download the repository from here: [Building a Scalable Node.js API in 10 Minutes]()
+***you can download the repository from here: [Building a Scalable Node.js API in 10 Minutes]()***
+
+
+## 4. Organize Your API
+
+![image](https://github.com/user-attachments/assets/038c57ed-2773-4888-b93d-f3d29d2db3a4)
+
+## 5. Deploy & Scale
+
++ Use PM2 for process management:
+
+![image](https://github.com/user-attachments/assets/533e24c9-abee-4b87-b39f-97b5c51b201f)
+
++ Use Docker for containerization.
+
++ Use a Load Balancer for scaling across multiple instances.
+
+
 
 
